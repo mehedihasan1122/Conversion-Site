@@ -50,7 +50,7 @@
 
 
       <div>
-           <p>currency converter</p>
+           <p>converter</p>
            <form action="conversion-site.php" method="post">
                <level for="">select category</level><br>
                <select name="number">
